@@ -29,7 +29,7 @@
                     <div class="col-lg-3 order-2 order-lg-1">
                         <aside class="sidebar-wrapper">
                             <!-- single sidebar start -->
-                            <div class="sidebar-single">
+                            <!-- <div class="sidebar-single">
                                 <h5 class="sidebar-title">Danh Mục</h5>
                                 <div class="sidebar-body">
                                     <ul class="shop-categories">
@@ -38,7 +38,7 @@
                                         <?php endforeach; ?>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- single sidebar end -->
 
                             <!-- single sidebar start -->
